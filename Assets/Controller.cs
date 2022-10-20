@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class dfgdh : MonoBehaviour
+public class Controller : MonoBehaviour
 {
     [SerializeField] float speed;
 
